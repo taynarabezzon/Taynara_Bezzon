@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Taynara Caroline Bezzon! 👋
 
-<!--
-**taynarabezzon/taynarabezzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about data, innovation, and continuous improvement. Currently, I work as a **Project Assistant at 3M do Brasil**, managing technical and regulatory data and supporting sample export/import processes. I have experience in **chemical engineering**, data science, and project management, always striving to apply my knowledge to create a positive and sustainable impact.
 
-Here are some ideas to get you started:
+## 🚀 My Skills
+- **Data Analytics:** Power BI | SQL | Python | R
+- **Project Management:** Technical documentation | ISO 9001 & 14001:2015 standards
+- **Languages:** English (intermediate) | Spanish (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Academic Background
+- Postgraduate in **Data Science and Advanced Analytics** (Anhanguera Educacional) – *in progress*
+- **Chemical Engineering** (ESAMC Campinas) – *expected completion in Dec/2024*
+
+## 📫 How to Reach Me
+- ✉️ [taynarabezzon@outlook.com](mailto:taynarabezzon@outlook.com)
+- 🌎 [LinkedIn](https://www.linkedin.com/in/taynarabezzon)
+
+Welcome to my profile! 😃 Let’s share knowledge and build amazing solutions together. 🚀✨
