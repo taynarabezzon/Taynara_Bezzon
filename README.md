@@ -18,7 +18,7 @@ Currently, at **3M**, I focus on structuring technical data, monitoring KPIs, an
 
 ### 🚀 Featured Projects
 
-#### 🐍 [Python Data Immersion - Alura](https://github.com/taynarabezzon/Imersao_Dados_Python_Alura)
+#### 🐍 [Python Data Immersion - Alura](https://github.com/taynarabezzon/Python_Data_Immersion)
 Exploratory Data Analysis (EDA) using Pandas and Matplotlib.Focused on data cleaning, merging datasets, and creating an interactive dashboard with **Streamlit** to answer core business questions.
 
 ---
